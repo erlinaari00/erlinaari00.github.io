@@ -57,7 +57,7 @@ body {
     text-transform: uppercase;
 }
 .menu-primer a:hover{
-    background-color: #ffffff;
+    background-color: beige;
     color: #000000;
     text-decoration: none;
 }
